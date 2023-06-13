@@ -19,8 +19,8 @@ Landing page of the webapp
 Level 2 Task 2 --- Tribute page
 Developed using HTML and CSS
 Link to site --
-Has the following functionalities:
 Landing page of the webapp
+![image](https://github.com/khushiSinghania11/OIBSIP/assets/109690883/9d7bfff8-4e4d-4204-a4cf-93386ae77ed7)
 
 
 Level 2 Task 3 --- To do web app
